@@ -22,8 +22,10 @@
     "prettier": "^2.0.5"
   },
   "dependencies": {
+    "polished": "^3.6.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "styled-components": "^5.1.0"
+    "styled-components": "^5.1.0",
+    "styled-components-modifiers": "^1.2.5"
   }
 }
